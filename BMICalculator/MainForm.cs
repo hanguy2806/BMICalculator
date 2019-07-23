@@ -45,6 +45,7 @@ namespace BMICalculator
         }
         private void CalculateBMI_Click(object sender, EventArgs e)
         {
+            //
             numBoard.Visible = false;
             float weight;
             float height;
